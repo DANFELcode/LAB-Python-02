@@ -1,0 +1,21 @@
+Integrantes: Daniel Felipe Sua - Daniel Jose Villamizar
+
+¿Cuál fue el tiempo total invertido en el laboratorio por cada uno de ustedes? 
+Daniel Sua: 5 horas
+Daniel Jose villamizar: 2 horas
+
+¿Cuál es el estado actual del laboratorio? ¿Por qué?
+Terminado, todos los puntos resueltos
+
+¿Cuál consideran fue el mayor logro? ¿Por qué?
+Aprender a usar listas de compresion
+
+¿Cuál consideran que fue el mayor problema técnico? ¿Qué hicieron para resolverlo?
+La sintaxis de algunas cosas en python
+
+¿Qué hicieron bien como equipo? ¿Qué se comprometen a hacer para mejorar los resultados?
+Comunicación efectiva, nos comprometemos a no dejarlo para el final
+
+¿Qué referencias usaron? ¿Cuál fue la más útil? Incluyan citas con estándares adecuados.
+
+claude.com
